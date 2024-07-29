@@ -23,7 +23,7 @@ public class UserRestController {
 	@Autowired
 	private UserBO userBO;
 	
-	// issue 메이킹
+	// issue 메이킹 1111111
 	
 	/**
 	 * 아이디 중복확인 API
